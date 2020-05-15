@@ -1,0 +1,36 @@
+H:\Computer Science\Sorting\Sorting\bin\Debug\Sorting.exe.config
+H:\Computer Science\Sorting\Sorting\bin\Debug\Sorting.exe
+H:\Computer Science\Sorting\Sorting\bin\Debug\Sorting.pdb
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.exe
+H:\Computer Science\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\1\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+H:\Computer Science\finalsorting\Sorting\Sorting\bin\Debug\Sorting.exe.config
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.exe
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.pdb
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+H:\Computer Science\finalsorting\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
+H:\Computer Science\finalsorting\Sorting\Sorting\bin\Debug\Sorting.exe
+H:\Computer Science\finalsorting\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.Form1.resources
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Moman\Documents\compscience\newnigga\Sorting\newest\6\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.Cache
