@@ -7,5 +7,5 @@ Includes the following sorting algorithims:
   - Heap Sort
   - Quick Sort
   - Delayed Replacement
-  
+
 Made with C#.
